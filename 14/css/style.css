@@ -1,0 +1,22 @@
+.my-calc {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border-color: #1c1d1d;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.my-calc .oper-block button {
+    height: 40px;
+    width: 40px;
+}
+
+.my-calc .inputs-block .input-block label {
+    display: block;
+}
+
+.my-calc .inputs-block .input-block {
+    display: inline-block;
+    padding: 10px;
+}
